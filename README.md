@@ -6,3 +6,6 @@
 
 ## Game play images:
 ![Game-play image](https://github.com/bjd-2002/car-game/assets/111186404/109a049d-5385-48fa-830f-ee182f6673b7)
+
+![image](https://github.com/bjd-2002/Car-game-bjd/assets/111186404/80072856-f275-41a4-b46b-ec9236cf7cd2)
+
